@@ -1,0 +1,7 @@
+Learn JIRA with real world examples
+Git Ultimate
+Master jenkins CI for DevOps and developers
+Selenium Webdriver for java
+The Complete Apache Groovy Developer course
+Linux command line basics
+Dockers for absolute begineers
